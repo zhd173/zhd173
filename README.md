@@ -9,7 +9,7 @@
 - <img alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/happy.gif?raw=1" width="20vw" /> Ask me about <img alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/go.png?raw=1" width="20vw" />Go, <img alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/kubernetes.png?raw=1" width="20vw" />Kubernetes and <img alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/emacs.png?raw=1" width="20vw" />Emacs
 - <img alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: [zhd173](https://github.com/zhd173/)
 - <img alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: First solve the problem, then write the code
-- <img alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/heart.gif?raw=1" width="20vw" /> Hobbies: Basketball 🏀 & Music 🎧 & Vidio Game 🎮
+- <img alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/heart.gif?raw=1" width="20vw" /> Hobbies: Basketball 🏀 & Music 🎧 & Video Game 🎮
 
 
 ![zhd173's github](https://github-readme-stats.vercel.app/api?username=zhd173&show_icons=true&hide_border=true)
