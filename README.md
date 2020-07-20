@@ -8,9 +8,9 @@
 
 ![zhd173's github](https://github-readme-stats.vercel.app/api?username=zhd173&show_icons=true&hide_border=true)
 
+<a href="mailto:haidongdev@gmail.com"><img src="https://github.com/zhd173/zhd173/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <p align="center">
 <a title="Hits" target="_blank" href="https://github.com/zhd173/zhd173"><img src="https://hits.b3log.org/zhd173/zhd173.svg"></a>
- <a href="mailto:haidongdev@gmail.com"><img src="https://github.com/zhd173/zhd173/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/zhd173"><img src="https://github.com/zhd173/zhd173/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/zhd173"><img src="https://github.com/zhd173/zhd173/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
   <a href="https://zhd173.github.io"><img src="https://github.com/zhd173/zhd173/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
