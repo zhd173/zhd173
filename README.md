@@ -7,6 +7,7 @@
 
 
 ![zhd173's github](https://github-readme-stats.vercel.app/api?username=zhd173&show_icons=true&hide_border=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhd173&layout=compact" />
 
 <a title="Hits" target="_blank" href="https://github.com/zhd173/zhd173"><img src="https://hits.b3log.org/zhd173/zhd173.svg"></a>
 <p align="center">
