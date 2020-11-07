@@ -1,9 +1,5 @@
 ### Hi, I'm Haidong!
 
-<p>
-<img align="right" alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/husky.gif?raw=1" width="150vw" />
-</p>
-
 - <img alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I'm currently focusing on Cloud Native technologies
 - <img alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/happy.gif?raw=1" width="20vw" /> Keep researching on Emacs, Go, Kubernetes, Istio and Envoy
 
@@ -18,3 +14,5 @@
 <a href="https://twitter.com/zhd173"><img src="https://github.com/zhd173/zhd173/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 <a href="https://zhd173.github.io"><img src="https://github.com/zhd173/zhd173/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
+
+<img align="right" alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/husky.gif?raw=1" width="150vw" />
