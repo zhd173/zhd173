@@ -1,8 +1,3 @@
-### Hi, I'm Haidong!
-
-- <img alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I'm currently focusing on Cloud Native technologies
-- <img alt="GIF" src="https://github.com/zhd173/zhd173/blob/master/assets/happy.gif?raw=1" width="20vw" /> Keep researching on Emacs, Go, Kubernetes, Istio and Envoy
-
 <p align="center">
 <img aligen="left" src="https://github-readme-stats.vercel.app/api?username=zhd173&show_icons=true&hide_border=true"/>
 <img aligen="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhd173&layout=compact&hide_border=true"/>
